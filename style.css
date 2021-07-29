@@ -1,4 +1,34 @@
 body {
-  font-family: "Inter", sans-serif;
+  /* font-family: "Inter", sans-serif; */
   font-family: "Poppins", sans-serif;
+}
+.header-section {
+  background-color: #264653;
+}
+.button-color {
+  background-color: #e76f51;
+  color: white;
+}
+.feature-section-paragraph {
+  font-size: 14px;
+  text-align: inherit;
+}
+.bike-collection-p {
+  font-size: 14px;
+  color: #e76f51;
+}
+.grayscale-img {
+  filter: grayscale(100%);
+}
+span {
+  color: #e76f51;
+}
+.user-img {
+  width: 150px !important;
+}
+.icon-color {
+  color: #e76f51;
+}
+.aqua-color {
+  color: #23a6f0;
 }
