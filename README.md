@@ -1,1 +1,1 @@
-website live here : mahmudqudrati.github.io/honda-cbr/
+website live here : https://mq-honda-assainment.netlify.app/
